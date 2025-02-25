@@ -291,7 +291,7 @@
     "electron-mocha": "13.0.1",
     "endanger": "7.0.4",
     "enquirer": "2.4.1",
-    "esbuild": "0.24.0",
+    "esbuild": "0.25.0",
     "eslint": "8.56.0",
     "eslint-config-airbnb-typescript-prettier": "5.0.0",
     "eslint-config-prettier": "8.5.0",
